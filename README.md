@@ -18,3 +18,38 @@
 17. program to convert Hexadecimal to Octal number system.
 18. program to convert Hexadecimal to Decimal number system.
 19.program to swap first and last digits of a number
+Pattern programs
+1.  *
+   ***
+  *****
+ *******
+*********
+Pyramid Star Pattern
+2.  *********
+     *******
+      *****
+       ***
+        *
+Inverted Pyramid Star Pattern
+3.  *
+   * *
+  *   *
+ *     *
+*********
+Hollow Pyramid Star Pattern
+4.      *********
+         *     *
+          *   *
+           * *
+            *
+Hollow Inverted Pyramid Star Pattern
+5.    *
+     * *
+    * * *
+   * * * *
+  * * * * *
+   * * * *
+    * * *
+     * *
+      *
+ Diamond Star Pattern
