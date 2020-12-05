@@ -53,3 +53,41 @@ Hollow Inverted Pyramid Star Pattern
      * *
       *
  Diamond Star Pattern
+6.)Square number patterns
+
+11111
+11111
+11111
+11111
+11111
+7.)Number pattern 1
+11111
+00000
+11111
+00000
+11111
+8.)Number pattern 2
+01010
+01010
+01010
+01010
+01010
+9.)Number pattern 3
+11111
+10001
+10001
+10001
+11111
+10.)Number pattern 4
+11111
+11111
+11011
+11111
+11111
+11.)Number pattern 5
+10101
+01010
+10101
+01010
+10101
+If else programs
